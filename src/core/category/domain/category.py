@@ -46,4 +46,3 @@ class Category:
         self.is_active = False
 
         self.validate()
-
